@@ -1,0 +1,9 @@
+# Exclude all files and folders from language statistics by default
+**/* linguist-vendored
+
+# Include Dart files in language statistics
+*.dart linguist-vendored=false
+
+# Include specific folders for Dart (e.g., lib folder)
+/lib/* linguist-vendored=false
+/android/* linguist-vendored=false
