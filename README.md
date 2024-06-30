@@ -9,13 +9,7 @@ Welcome to the Dictionary App! This Flutter application allows users to search f
 - **Favorites**: Save words to your favorites for easy access.
 - **User-Friendly Interface**: Clean and modern design for a seamless user experience.
 
-## Screenshots
 
-*![Home Screen](link-to-screenshot1)
-![Search Results](link-to-screenshot2)
-![Favorites](link-to-screenshot3)*
-
-*Replace the placeholder links with actual URLs to your screenshots.*
 
 ## Getting Started
 
